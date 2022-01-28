@@ -5,13 +5,38 @@
 - 🚀 Стремлюсь работать с интересными проектами
 - 🌱 Хочу стать востребованным разработчиком
 
-<h4 align="left">Стек технологий:</h4>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="32" height="32"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="32" height="32"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="32" height="32"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="32" height="32"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="32" height="32"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/73493824/114519643-49d25980-9c49-11eb-9bcf-3085c332f6df.png" alt="vs code" width="32" height="32"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="32" height="32"/> </a> </p>
+<h4>Технологии</h4>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffe303?style=flat-square&logo=javascript&logoColor=000)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![express](https://img.shields.io/badge/-express-181717?style=flat-square&logo=express)
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+ 
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+ 
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
 
 </br>
 <a href="https://github-readme-stats.vercel.app/api?username=Imjogan">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=Imjogan&show_icons=true&hide=issues&custom_title=🏆 Моя статистика" />
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=Imjogan&show_icons=true&hide=issues&custom_title=Cтатистика" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Imjogan">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imjogan&layout=compact&custom_title=Популярные языки" />
-</a>
+
+<h4>Связаться со мной</h4>
+
+[![Telegram Badge](https://img.shields.io/badge/-telegram-85b2ff?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/Mjogan)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/mjogan/)
+[![Github Badge](https://img.shields.io/badge/-github-24292e?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Imjogan)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:i.mjogan@gmail.com)
+[![Codewars Badge](https://img.shields.io/badge/-codewars-000?style=for-the-badge&logo=codewars&logoColor=ffffff)](https://codewars.com/users/Mjogan)
