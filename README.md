@@ -20,11 +20,12 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=fff)
 ![socket.io](https://img.shields.io/badge/-Socket.IO-e7e7e7?style=flat-square&logo=socket.io&logoColor=000)
 ![ffmpeg](https://img.shields.io/badge/-FFmpeg-6bb120?style=flat-square&logo=ffmpeg&logoColor=fff)
+![sharp](https://img.shields.io/badge/-sharp-99cc00?style=flat-square&logo=sharp&logoColor=fff)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=fff)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=fff)
-![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=fff)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=fff)
 
 ![Eslint](https://img.shields.io/badge/-Eslint-f99c00?style=flat-square&logo=Eslint&logoColor=fff)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=fff)
