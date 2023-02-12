@@ -10,12 +10,11 @@
 <hr>
 <h4>Мой стэк технологий</h4>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffe303?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-2f74c0?style=flat-square&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=React&logoColor=fff)
-![antd](https://img.shields.io/badge/-Ant_Design-0170fe?style=flat-square&logo=antdesign&logoColor=fff)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=fff)
-![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
+![antd](https://img.shields.io/badge/-Ant_Design-0170fe?style=flat-square&logo=antdesign&logoColor=fff)
+![mui](https://img.shields.io/badge/-Material_UI-0170fe?style=flat-square&logo=mui&logoColor=fff)
 
 ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=fff)
 ![express](https://img.shields.io/badge/-Express.js-181717?style=flat-square&logo=express&logoColor=fff)
